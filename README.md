@@ -1,4 +1,6 @@
 # Set Xcode Git Build Number
+![Team](https://img.shields.io/badge/team-silver-lightgray.svg)
+![Status](https://img.shields.io/badge/status-active-green.svg)
 
 This is a Bitrise step to aid in CI. This step will generate a build number based off the current date and latests git commit. The build number for the app and all extensions will be updated to the new generated build number.
 
